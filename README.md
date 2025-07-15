@@ -2,7 +2,8 @@
 
 > A modern, voice-enabled AI assistant with an interactive GUI, waveform animation, file system control, YouTube playback, and casual chat capabilities.
 
-![Echo GUI Screenshot](https://your-screenshot-url-if-any) <!-- Optional: Replace with your own image link -->
+![Echo GUI](screenshot.png)
+ <!-- Optional: Replace with your own image link -->
 
 ---
 
